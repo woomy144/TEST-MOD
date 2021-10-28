@@ -1,0 +1,16 @@
+{
+  "Name": "Test-1",
+  "Author": "AssWeCan#7633",
+  "Description": "POW!You are dead!",
+  "ModVersion": "1.0",
+  "GameVersion": "1.15x",
+  "ThumbnailPath": "",
+  "EntryPoint": "Weapons.Weapons",
+  "Tags": [],
+  "Scripts": [
+    "Weapons.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
