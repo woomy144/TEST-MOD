@@ -7,7 +7,30 @@ using System.Runtime.ExceptionServices;
 using System.Security.Permissions;
 using UnityEngine;
 using UnityEngine.Events;
+/*********************************************************************************/
+/*Weapons side code v0.023                                                       */
+/*Sponsored by tekloro                                                           */
+/*thx to other help :}                                                           */                                        
+/*Contact MeuMw#7633                                                             */
+/*                                                                               */
+/*                                                                               */
+/*                                                                               */
+/*                                                                               */
+/*********************************************************************************/
+/*                                                                               */
+/*By MeuMw#7633#7633,_LayFlayz_#4436,FDLordhon#4981                              */
+/*********************************************************************************/
+/*
+ ___        ___
+|   |      |   |
+|   |      |   |
+|   |______|   |
+|    ______    |
+|   |      |   |
+|   |      |   |
+|___|      |___|
 
+*/
 namespace Weapons
 {
     public class Weapons
